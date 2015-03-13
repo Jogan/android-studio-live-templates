@@ -1,8 +1,8 @@
 ##What is this?
 A collection of useful live templates that you can use within your AndroidStudio or IntelliJ IDEA installation.
 
-##I can haz?
-Yes. Simply clone the repository to your AndroidStudio's config/templates folder.
+##How do I add?
+Yes. Simply clone the repository and copy its contents to your AndroidStudio's config/templates folder. 
 
 JetBrains [has you covered](https://www.jetbrains.com/idea/webhelp/live-templates.html) in finding the location of this folder.
 
@@ -82,12 +82,7 @@ Once you found it, `cd` into it, run `git clone https://github.com/Jogan/android
 - **`toolsNs`**: "adds tools namespace to Android xml file"
 
 ##Contribution
-1. Fork
-2. Add your own live templates
-3. Update the documentation by using the `./listCurrentTemplates.sh` template
-4. Send me a pull request
-5. Wait
-6. Profit
+Check out [keyboardsurfer's repo](https://github.com/keyboardsurfer/idea-live-templates)
 
 ## License
 
